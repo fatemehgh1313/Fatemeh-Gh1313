@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fatemehgh1313
+- 👋 Hi, I’m @fatemeh-gh1313
 - 👀 I’m interested in EEG signal processing, image signal processing and deep learning!
 - 🌱 I’m currently learning signal processing and deep learning:D
 - 💞️ I’m looking to collaborate on ...
